@@ -1,0 +1,8 @@
+{
+  "read_compressionON":true,
+  "stemming_stopwordON":true,
+  "index_compressionON":false,
+  "testing_ON":false,
+  "Collection_Compressed_path":"/Users/simonelandi/Desktop/collection/collection.tar.gz",
+  "Collection_Uncompressed_path":"/Users/simonelandi/Desktop/collection/collection.tsv"
+}

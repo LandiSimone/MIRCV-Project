@@ -1,0 +1,6 @@
+Block number: 60
+Total folder dimension: 1779.9384460449219
+Spimi execution time: 431071 ms
+Merger execution time: 33849 ms
+Total execution time: 464920 ms
+
