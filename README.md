@@ -1,6 +1,5 @@
 
 
-
 # MIRCV Search Engine 
 
 In this project, a search engine was developed based on the MSMARCO Passages collection, which is available on https://microsoft.github.io/msmarco/TREC-Deep-Learning-2020. The project consists of three main parts:
